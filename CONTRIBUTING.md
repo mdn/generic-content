@@ -61,62 +61,9 @@ The best way to reach us with a question when contributing is to use the followi
 The MDN Web Docs project has a well-defined pull request process which is documented in the [Pull request guidelines](https://developer.mozilla.org/en-US/docs/MDN/Community/Pull_requests).
 Make sure you read and understand this process before you start working on a pull request.
 
-<!--
-TODO: If there are any guidelines on review processes not covered by the contribution pages at https://developer.mozilla.org/en-US/docs/MDN/Community/Pull_requests, either:
-  * Check if they should be added to the contribution pages if they should apply to all repositories, or
-  * Add them to this section below if they are unique to this repository only.
- -->
-
 ## Setting up the development environment
 
-<!--
-TODO: This is specific to every project. Add a section here that describes the steps needed to set up this project for contributing.
--->
-
-### Forking and cloning the project
-
-The first step in setting up your development environment is to [fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) the repository to your local machine.
-
-### Prerequisites
-
-<!--
-TODO: This is specific to every project. Add a section here that describes the steps needed to prepare a local machine before building.
-It should look like this:
-
-To get started, make sure you have the following:
-
-- [NVM](https://github.com/nvm-sh/nvm) or [NVM for Windows](https://github.com/coreybutler/nvm-windows)
-- [Nodejs](https://nodejs.org/en/) (Latest stable release or up to two versions back)
-
--->
-
-### Building the project
-
-<!--
-TODO: This is specific to every project. Add a section here that describes the steps needed to build this project.
-It should follow the same structure as the following example:
-
-Once you have the above installed and have the repository cloned, it is time to install the project dependencies.
-
-```bash
-npm i
-```
-
-With the dependencies installed you can start the project with the following command:
-
-```bash
-npm start
-```
-
-Open `http://localhost:3000` in your browser.
-
-To run the test suite, use the following command:
-
-```bash
-npm test
-```
-
--->
+Developing against this project requires setting up [`rari`](https://github.com/mdn/rari).
 
 ## Signing commits
 

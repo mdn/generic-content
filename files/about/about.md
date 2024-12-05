@@ -566,7 +566,7 @@ forefront of web development!
 
 ## Global Impact
 
-Serving over 17 million users monthly from around the globe, MDN connects
+Serving over 15 million users monthly from around the globe, MDN connects
 developers with the tools and information they need to easily build projects on
 the open web.
 
