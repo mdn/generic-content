@@ -152,7 +152,7 @@ and putting together a fast-forward trip through our transformation!
   MDN is a Mozilla project that is powered by its global community. We are a
   diverse group of developers, writers, and technologists working together to
   build resources for a better web. Our open-source approach welcomes
-  contributions from anyone. Each of the <number> individuals who have
+  contributions from anyone. Each of the individuals who have
   contributed over the past decades has strengthened MDN. Through our GitHub
   repository, contributors can make changes and get their work reviewed and
   integrated into MDN’s content.
@@ -305,7 +305,7 @@ forefront of web development!
 
 #### Chris Mills
 
-- Technical writer and product strategist
+- Technical Writer and Product Strategist
 - ![Profile picture of Chris](https://mdn.dev/generic-content/about/profiles/chris-309x309@1x.jpg)
 - [@chrisdavidmills](https://github.com/chrisdavidmills)
 - Based in Greenfield, UK, Chris has been part of MDN since 2013, initially as a
