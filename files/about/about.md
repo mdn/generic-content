@@ -10,7 +10,7 @@ Empowering developers worldwide to build a better, open web
 - **7** Languages
 - **46M** Monthly pageviews
 
-## Who We Are
+## Who we are
 
 MDN is an open-source, collaborative project owned by Mozilla Corporation and
 developed by Mozilla, in partnership with a global community of volunteers and
@@ -19,7 +19,7 @@ and overall direction, while [the community](/en-US/community) actively
 contributes to content creation, translations, and browser compatibility
 improvements, ensuring MDN remains a vital and evolving resource for all.
 
-### What We Offer
+### What we offer
 
 - #### MDN Web Docs
 
@@ -53,7 +53,7 @@ improvements, ensuring MDN remains a vital and evolving resource for all.
   and [HTTP Observatory](/en-US/observatory) for analyzing website security,
   designed to enhance your development experience.
 
-### Our Journey
+### Our journey
 
 From our beginnings to becoming the go-to resource for web developers worldwide,
 here's how we've evolved:
@@ -105,7 +105,7 @@ here's how we've evolved:
   also introduced a Blog to cover interesting topics beyond MDN’s core focus,
   and a Curriculum to provide a structured approach to learning web development.
 
-#### Discover More
+#### Discover more
 
 We had fun exploring the
 [internet archives](https://web.archive.org/web/20240000000000*/developer.mozilla.org)
@@ -134,9 +134,9 @@ and putting together a fast-forward trip through our transformation!
 
 </mdn-image-history>
 
-### Our Core Values
+### Our core values
 
-- #### Accurate and Reliable
+- #### Accurate and reliable
 
   MDN is built on the fundamental principle of accuracy, which has established
   it as the trusted source of web documentation globally. We are committed to
@@ -147,7 +147,7 @@ and putting together a fast-forward trip through our transformation!
   experience of our diverse developer community to ensure that millions of users
   can rely on MDN daily for up-to-date and accurate information.
 
-- #### Collaborative and Community-driven
+- #### Collaborative and community-driven
 
   MDN is a Mozilla project that is powered by its global community. We are a
   diverse group of developers, writers, and technologists working together to
@@ -157,7 +157,7 @@ and putting together a fast-forward trip through our transformation!
   repository, contributors can make changes and get their work reviewed and
   integrated into MDN’s content.
 
-- #### Inclusive and Dynamic
+- #### Inclusive and dynamic
 
   MDN is committed to providing documentation for a wide range of web
   technologies while continuously adapting to the changing landscape of web
@@ -166,7 +166,7 @@ and putting together a fast-forward trip through our transformation!
   to regularly updating our resources to reflect the latest standards and best
   practices, helping developers stay current in a rapidly changing field.
 
-- #### Our Mission
+- #### Our mission
 
   At MDN, our mission is to provide developers with the resources they need to
   create innovative and accessible web experiences. We offer a free,
@@ -177,7 +177,7 @@ and putting together a fast-forward trip through our transformation!
   are tailored for a diverse audience—from beginners and students to professors
   teaching web development.
 
-### Our Team
+### Our team
 
 From technical writers and engineers to product and community managers, we are a
 diverse group dedicated to driving MDN’s mission, growth, and success. Get to
@@ -448,7 +448,7 @@ forefront of web development!
 
 </team-member>
 
-### Our Partners
+### Our partners
 
 <div>
 
@@ -564,7 +564,7 @@ forefront of web development!
 </team-member>
 </div>
 
-## Global Impact
+## Global impact
 
 Serving over 15 million users monthly from around the globe, MDN connects
 developers with the tools and information they need to easily build projects on
