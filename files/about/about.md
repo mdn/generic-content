@@ -452,7 +452,7 @@ forefront of web development!
 
 <div>
 
-#### PAB
+#### Product Advisory Board
 
 <team-member>
 
@@ -518,9 +518,9 @@ forefront of web development!
 </div>
 <div>
 
-#### OWD
+#### Open Web Docs
 
-[Open Web Docs (OWD)](https://openwebdocs.org/), an independent open source organization, is one of the most productive contributors to MDN Web Docs. OWD contributes as part of [their mission](https://github.com/openwebdocs/project/blob/main/charter.md) to support “web platform documentation for the benefit of web developers & designers worldwide.” The team at OWD has led or contributed to many projects to improve documentation on MDN. They're an invaluable partner in the day-to-day work of making MDN. Read more about OWD’s activities in their [2023 Impact and Transparency Report](https://openwebdocs.org/content/reports/2023/) and get continuous updates on their [Mastodon](https://front-end.social/@OpenWebDocs) account.
+[Open Web Docs](https://openwebdocs.org/), an independent open source organization, is one of the most productive contributors to MDN Web Docs. OWD contributes as part of [their mission](https://github.com/openwebdocs/project/blob/main/charter.md) to support “web platform documentation for the benefit of web developers & designers worldwide.” The team at OWD has led or contributed to many projects to improve documentation on MDN. They're an invaluable partner in the day-to-day work of making MDN. Read more about OWD’s activities in their [2023 Impact and Transparency Report](https://openwebdocs.org/content/reports/2023/) and get continuous updates on their [Mastodon](https://front-end.social/@OpenWebDocs) account.
 
 <team-member>
 
@@ -549,7 +549,7 @@ forefront of web development!
 - Sr. Technical Writer and Developer Advocate
 - ![Profile picture of Estelle](https://mdn.dev/generic-content/about/profiles/owd/estelle-309x309@1x.jpg)
 - [@estelle](https://github.com/estelle)
-- Estelle Weyl is a Sr. Technical Writer and Developer Advocate on the Open Web Docs team. She is a frontend engineer , writing CSS, JS and HTML since 1999. Estelle has always been a web standardista, advocating for a free, accessible, and performant web. Estelle has been documenting and teaching web standards since 2007, writing numerous books, blogs, and tutorials. She’s typing with her cat (who thinks he's a dog) and dog (who thinks she's a cat) in San Francisco.
+- Estelle Weyl is a Sr. Technical Writer and Developer Advocate on the Open Web Docs team. She is a frontend engineer, writing CSS, JS and HTML since 1999. Estelle has always been a web standardista, advocating for a free, accessible, and performant web. Estelle has been documenting and teaching web standards since 2007, writing numerous books, blogs, and tutorials. She’s typing with her cat (who thinks he's a dog) and dog (who thinks she's a cat) in San Francisco.
 
 </team-member>
 <team-member>
@@ -576,7 +576,7 @@ the open web.
 - **Trusted reference:** Platforms like freeCodeCamp and Codecademy frequently link
   to MDN articles as authoritative references.
 
-- **Industry standard:** Tools like caniuse leverage
+- **Industry standard:** Tools like Can I use leverage
   [MDN’s browser compatibility data](https://github.com/mdn/browser-compat-data/blob/main/README.md)
   for up-to-date information on web feature support across browsers.
 
