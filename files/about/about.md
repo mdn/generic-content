@@ -520,7 +520,7 @@ forefront of web development!
 
 #### OWD
 
-[Open Web Docs (OWD)](https://openwebdocs.org/), an independent open source organization, is one of the most productive contributors to MDN Web Docs. OWD contributes as part of [their mission](https://github.com/openwebdocs/project/blob/main/charter.md) to support “web platform documentation for the benefit of web developers & designers worldwide.” The team at OWD has led or contributed to many projects to improve documentation on MDN. They're an invaluable partner in the day-to-day work of making MDN. Read more about OWD’s activities in their [2023 Impact and Transparency Report](https://openwebdocs.org/content/reports/2023/) and get continuous updates on their [Mastodon](https://front-end.social/@OpenWebDocs) account.
+[Open Web Docs (OWD)](https://openwebdocs.org/), an independent open source organization, is one of the most productive contributors to MDN Web Docs. OWD contributes as part of [their mission](https://github.com/openwebdocs/project/blob/main/charter.md) to support “web platform documentation for the benefit of web developers & designers worldwide.” The team at OWD has led or contributed to many projects to improve documentation on MDN. They're an invaluable partner in the day-to-day work of making MDN. Read more about OWD’s activities in their [2024 Impact and Transparency Report](https://openwebdocs.org/content/reports/2024/) and get continuous updates on their [Mastodon](https://front-end.social/@OpenWebDocs) account.
 
 <team-member>
 
