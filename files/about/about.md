@@ -1,5 +1,6 @@
 ---
 title: About MDN
+template: GenericAbout
 ---
 
 # About MDN

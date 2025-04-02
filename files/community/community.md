@@ -1,5 +1,6 @@
 ---
 title: "Contribute to MDN"
+template: GenericCommunity
 ---
 
 # MDN Community
