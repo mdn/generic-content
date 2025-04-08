@@ -186,18 +186,12 @@ forefront of web development!
 
 <team-member>
 
-#### Hermina Condei
+#### Joe Walker
 
 - Senior Director
-- ![Profile picture of Hermina](https://mdn.dev/generic-content/about/profiles/hermina-309x309@1x.jpg)
-- [@HerminaC](https://github.com/HerminaC)
-- Hermina lives in Paris. She joined Mozilla in 2013 and has been leading the
-  MDN team since 2022. She manages the product, engineering, and technical
-  writers groups, while also presiding over the [Product Advisory Board](#pab) for
-  MDN. With a background in product management, Hermina is responsible for
-  setting the strategic direction of the website and enjoys getting involved in
-  day-to-day operations whenever she can. Hermina loves spending time with her
-  family and reading.
+- ![Profile picture of Joe](https://mdn.dev/generic-content/about/profiles/joe-309x309%401x.jpg)
+- [@joewalker](https://github.com/joewalker)
+- Joe is based in London and has been at Mozilla since 2009. He got interested in Mozilla after suddenly being anointed as the maintainer of Venkman, a precursor to Firebug. He later worked on and managed Firebug and Firefox DevTools. Since 2020, he’s managed various teams across Firefox Web Platform, including looking after the core parts of Firefox that you don’t usually see—like JavaScript and the DOM. In 2025, he took on the leadership of MDN as well. Joe sometimes works from his office at the bottom of a disused canal, with three chickens and a few newts for company.
 
 </team-member>
 <team-member>
@@ -475,11 +469,11 @@ forefront of web development!
 </team-member>
 <team-member>
 
-##### Kyle Pflug
+##### Patrick Brosset
 
-- Group Product Manager, Microsoft Edge
-- ![Profile picture of Kyle](https://mdn.dev/generic-content/about/profiles/pab/kyle-309x309@1x.jpg)
-- Kyle Pflug is a Group Product Manager in the Edge Web Platform team at Microsoft, where he leads developer advocacy and evangelism for all of Edge, as well as product management for the HTML, CSS, Composition, and Input areas in Microsoft Edge. Previously, Kyle has worked on the Edge platform for a decade, focused on advancing the web app platform, developer tools, and developer ecosystem engagements. He has worked to champion web developer and partner needs within Microsoft and across the industry. In addition to supporting the MDN Product Advisory Board, Kyle is a co-founder and Governing Committee member at Open Web Docs.
+- Senior Product Manager, Microsoft Edge
+- ![Profile picture of Patrick](https://mdn.dev/generic-content/about/profiles/pab/patrick-309x309%401x.jpg)
+- Patrick Brosset is a senior Product Manager on the Microsoft Edge web platform team, where he drives efforts around developer advocacy, documentation, and evangelism for the web platform. Patrick has worked with the web for more than 20 years, and on web browsers at Mozilla and Microsoft, including on developer tools, web apps, and the rendering engine for over a decade. He is a member of the Governing Committee at Open Web Docs, and a co-chair of the W3C WebDX Community Group.
 
 </team-member>
 <team-member>
@@ -498,11 +492,11 @@ forefront of web development!
 </team-member>
 <team-member>
 
-##### Boaz Sender
+##### Carmen Cañas
 
-- Founding Principal, Bocoup
-- ![Profile picture of Boaz](https://mdn.dev/generic-content/about/profiles/pab/boaz-309x309@1x.jpg)
-- Boaz works on web platform strategy and product development at Bocoup with a specific focus on accessibility and privacy. He supports Bocoup’s work in web developer tools, standards, testing, and coalition building for the web platform, and builds web applications for Bocoup’s [Free Prototype Program](https://bocoup.com/blog/free-prototype-program). Along with day-to-day work at Bocoup, Boaz is a member of the Web Platform Tests Interop Program, and serves on the [Design Justice Network](https://designjustice.org/) Steering Committee, and [Processing Foundation](https://processingfoundation.org/) Board of Advisors.
+- Technical Project Manager, Bocoup
+- ![Profile picture of Carmen](https://mdn.dev/generic-content/about/profiles/pab/carmen-309x309%401x.jpg)
+- Carmen Cañas is part of the worker-owner team at [Bocoup](https://www.bocoup.com/) where she manages web platform projects and product development projects with a special focus on accessibility and privacy. Before joining Bocoup, she spent over 10 years building open source projects in Latin America and Africa, with a focus on implementing open data standards for publishing government data.  Carmen lives between Cuzcatlán (El Salvador) and Tkaronto (Toronto).
 
 </team-member>
 <team-member>
