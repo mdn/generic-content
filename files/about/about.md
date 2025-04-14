@@ -191,7 +191,7 @@ forefront of web development!
 - Senior Director
 - ![Profile picture of Joe](https://mdn.dev/generic-content/about/profiles/joe-309x309%401x.jpg)
 - [@joewalker](https://github.com/joewalker)
-- Joe is based in London and has been at Mozilla since 2009. He got interested in Mozilla after suddenly being anointed as the maintainer of Venkman, a precursor to Firebug. He later worked on and managed Firebug and Firefox DevTools. Since 2020, he’s managed various teams across Firefox Web Platform, including looking after the core parts of Firefox that you don’t usually see—like JavaScript and the DOM. In 2025, he took on the leadership of MDN as well. Joe sometimes works from his office at the bottom of a disused canal, with three chickens and a few newts for company.
+- Joe is based in London and has been at Mozilla since 2009. He got interested in Mozilla after suddenly being anointed as the maintainer of Venkman, a precursor to Firebug. He later worked on and managed Firebug and Firefox DevTools. Since 2020, he's managed various teams across Firefox Web Platform, including looking after the core parts of Firefox that you don't usually see—like JavaScript and the DOM. In 2025, he took on the leadership of MDN as well. Joe sometimes works from his office at the bottom of a disused canal, with three chickens and a few newts for company.
 
 </team-member>
 <team-member>
