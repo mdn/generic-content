@@ -3,6 +3,8 @@ title: About MDN
 template: GenericAbout
 ---
 
+<mdn-about-header>
+
 # About MDN
 
 Empowering developers worldwide to build a better, open web
@@ -10,6 +12,9 @@ Empowering developers worldwide to build a better, open web
 - **45K** Pages of content
 - **7** Languages
 - **46M** Monthly pageviews
+
+</mdn-about-header>
+<mdn-about-who-we-are>
 
 ## Who we are
 
@@ -19,6 +24,10 @@ partners. Mozilla’s MDN team leads the platform’s development, content strat
 and overall direction, while [the community](/en-US/community) actively
 contributes to content creation, translations, and browser compatibility
 improvements, ensuring MDN remains a vital and evolving resource for all.
+
+</mdn-about-who-we-are>
+<mdn-about-tabs>
+<mdn-about-products>
 
 ### What we offer
 
@@ -53,6 +62,9 @@ improvements, ensuring MDN remains a vital and evolving resource for all.
   Experiment and learn with tools like [Playground](/en-US/play) for live coding
   and [HTTP Observatory](/en-US/observatory) for analyzing website security,
   designed to enhance your development experience.
+
+</mdn-about-products>
+<mdn-about-history>
 
 ### Our journey
 
@@ -112,7 +124,7 @@ We had fun exploring the
 [internet archives](https://web.archive.org/web/20240000000000*/developer.mozilla.org)
 and putting together a fast-forward trip through our transformation!
 
-<mdn-image-history>
+<mdn-about-image-history>
 
 - ![Screenshot of MDN homepage from August 2004](https://mdn.dev/generic-content/about/screenshots/20040824212916-960x540@0.5x.png)
 - ![Screenshot of MDN homepage from September 2004](https://mdn.dev/generic-content/about/screenshots/20040926061442-960x540@0.5x.png)
@@ -133,7 +145,9 @@ and putting together a fast-forward trip through our transformation!
 - ![Screenshot of MDN homepage from April 2022](https://mdn.dev/generic-content/about/screenshots/20220402010722-1280x720@0.5x.png)
 - ![Screenshot of MDN homepage from May 2022](https://mdn.dev/generic-content/about/screenshots/20220502042141-1280x720@0.5x.png)
 
-</mdn-image-history>
+</mdn-about-image-history>
+</mdn-about-history>
+<mdn-about-core-values>
 
 ### Our core values
 
@@ -178,6 +192,9 @@ and putting together a fast-forward trip through our transformation!
   are tailored for a diverse audience—from beginners and students to professors
   teaching web development.
 
+</mdn-about-core-values>
+<mdn-about-team>
+
 ### Our team
 
 From technical writers and engineers to product and community managers, we are a
@@ -185,7 +202,7 @@ diverse group dedicated to driving MDN’s mission, growth, and success. Get to
 know the people behind MDN and discover what motivates us to keep you at the
 forefront of web development!
 
-<team-member>
+<mdn-about-team-member>
 
 #### Joe Walker
 
@@ -194,8 +211,8 @@ forefront of web development!
 - [@joewalker](https://github.com/joewalker)
 - Joe is based in London and has been at Mozilla since 2009. He got interested in Mozilla after suddenly being anointed as the maintainer of Venkman, a precursor to Firebug. He later worked on and managed Firebug and Firefox DevTools. Since 2020, he's managed various teams across Firefox Web Platform, including looking after the core parts of Firefox that you don't usually see—like JavaScript and the DOM. In 2025, he took on the leadership of MDN as well. Joe sometimes works from his office at the bottom of a disused canal, with three chickens and a few newts for company.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Ruth John
 
@@ -211,8 +228,8 @@ forefront of web development!
   her dog Yoshi or in her studio, where she enjoys sewing, sculpting, painting,
   and anything else that takes her away from a screen.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Florian Dieminger
 
@@ -225,8 +242,8 @@ forefront of web development!
   is a nerd outside of work too and is rediscovering online gaming. He loves
   spending time with his family.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Dipika Bhattacharya
 
@@ -241,8 +258,8 @@ forefront of web development!
   discoverability of MDN’s documentation. Outside of work, she loves exploring
   the city, discovering unique coffee shops, and trying different cuisines.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Vadim Makeev
 
@@ -256,8 +273,8 @@ forefront of web development!
   conferences and meetups. In his spare time, he goes on bikepacking trips,
   hangs out on punk gigs, and records podcasts and videos in his home studio.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Brian Smith
 
@@ -274,8 +291,8 @@ forefront of web development!
   family, discovering local coffee shops, and using music gear as long as it
   doesn't have a screen.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Dave Letorey
 
@@ -295,8 +312,8 @@ forefront of web development!
   collection of red hats, so is easy to spot in the wild. He is never happier
   than when in a field with his friends.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Chris Mills
 
@@ -312,8 +329,7 @@ forefront of web development!
   cycling, country walks, and spending time with his wife and three awesome
   kids.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
 
 #### Hamish Willee
 
@@ -330,8 +346,8 @@ forefront of web development!
   knowledge accessible to everyone in a clear format. Outside work, he brews
   beer, reads science fiction and fantasy, enjoys running, and likes drones.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Andi Pieper
 
@@ -346,8 +362,8 @@ forefront of web development!
   veering off into desktop and mobile development. Apart from his daytime
   obligations, he enjoys creating organized noise.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Claas Augner
 
@@ -360,8 +376,8 @@ forefront of web development!
   work, he loves baking rye sourdough breads and playing cooperative board
   games.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Leo McArdle
 
@@ -375,8 +391,8 @@ forefront of web development!
   the city, photographing panoramas, or watching almost every sport imaginable,
   from cricket to karting.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Pranshu Khanna
 
@@ -393,8 +409,8 @@ forefront of web development!
   DevOps. In his free time, he likes to play football in any form - physical,
   digital, and fantasy.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Anuja Rajput
 
@@ -409,8 +425,8 @@ forefront of web development!
   her UX designs. In her free time, she enjoys painting, sketching, and travel
   sketching.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Sonal Sood
 
@@ -424,8 +440,8 @@ forefront of web development!
   difference. In her free time, Sonal enjoys cycling, running, and practicing
   yoga.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 #### Miruna Curtean
 
@@ -441,15 +457,18 @@ forefront of web development!
   aspect. Outside of work, Miruna enjoys story-based entertainment including
   books, movies, shows, anime, and podcasts.
 
-</team-member>
+</mdn-about-team-member>
+
+</mdn-about-team>
+<mdn-about-partners>
 
 ### Our partners
 
-<div>
+<mdn-about-team-members>
 
 #### Product Advisory Board
 
-<team-member>
+<mdn-about-team-member>
 
 ##### Rachel Andrew
 
@@ -458,8 +477,8 @@ forefront of web development!
 - Rachel has been working on the web as a developer since 1996 and writing about web development for almost as long. She now works for Google as Content Lead for Chrome Developer Relations, owning the content strategy of [web.dev](http://web.dev) and [developer.chrome.com](http://developer.chrome.com), and is also a lead on the Baseline project. Rachel is a CSS Working Group member and specification editor, and in the past has been a contributor to MDN as a contractor for Mozilla and for Google.
   Photo © Drew McLellan.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 ##### Robert Nyman
 
@@ -467,8 +486,8 @@ forefront of web development!
 - ![Profile picture of Robert](https://mdn.dev/generic-content/about/profiles/pab/robert-309x309@1x.jpg)
 - Robert wants to make the web the best platform for developers and has always been heavily invested in the community and helping developers succeed. Prior to Google, Robert was a technical evangelist at Mozilla, focused on the Open Web and the company's various products and initiatives. He's a co-founder of Open Web Docs, lives in Stockholm, has a passion for traveling and meeting people, and has given presentations in 42 countries.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 ##### Patrick Brosset
 
@@ -476,8 +495,8 @@ forefront of web development!
 - ![Profile picture of Patrick](https://mdn.dev/generic-content/about/profiles/pab/patrick-309x309%401x.jpg)
 - Patrick Brosset is a senior Product Manager on the Microsoft Edge web platform team, where he drives efforts around developer advocacy, documentation, and evangelism for the web platform. Patrick has worked with the web for more than 20 years, and on web browsers at Mozilla and Microsoft, including on developer tools, web apps, and the rendering engine for over a decade. He is a member of the Governing Committee at Open Web Docs, and a co-chair of the W3C WebDX Community Group.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 ##### Dominique Hazael-Massieux
 
@@ -490,8 +509,8 @@ forefront of web development!
   Dom also sits on the W3C Board of Directors and on the Open Web Docs
   Governing Committee.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 ##### Carmen Cañas
 
@@ -499,8 +518,8 @@ forefront of web development!
 - ![Profile picture of Carmen](https://mdn.dev/generic-content/about/profiles/pab/carmen-309x309%401x.jpg)
 - Carmen Cañas is part of the worker-owner team at [Bocoup](https://www.bocoup.com/) where she manages web platform projects and product development projects with a special focus on accessibility and privacy. Before joining Bocoup, she spent over 10 years building open source projects in Latin America and Africa, with a focus on implementing open data standards for publishing government data.  Carmen lives between Cuzcatlán (El Salvador) and Tkaronto (Toronto).
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 ##### Laura Morinigo
 
@@ -508,16 +527,15 @@ forefront of web development!
 - ![Profile picture of Laura](https://mdn.dev/generic-content/about/profiles/pab/laura-309x309@1x.jpg)
 - Laura is a software developer, advocate, and mentor, passionate about sharing her knowledge and connecting with tech communities worldwide. She has been recognized as a Google Developer Expert and a Woman Techmakers Ambassador for her contributions. As a mentor, she has supported startups in accelerator programs like Google Launchpad and the United Nations’ World Food Programme. Currently, Laura contributes to web standards and advocates for advanced web features, helping developers build more inclusive and impactful web applications.
 
-</team-member>
-
-</div>
-<div>
+</mdn-about-team-member>
+</<mdn-about-team-members>
+<mdn-about-team-members>
 
 #### Open Web Docs
 
 [Open Web Docs (OWD)](https://openwebdocs.org/), an independent open source organization, is one of the most productive contributors to MDN Web Docs. OWD contributes as part of [their mission](https://github.com/openwebdocs/project/blob/main/charter.md) to support “web platform documentation for the benefit of web developers & designers worldwide.” The team at OWD has led or contributed to many projects to improve documentation on MDN. They're an invaluable partner in the day-to-day work of making MDN. Read more about OWD’s activities in their [2024 Impact and Transparency Report](https://openwebdocs.org/content/reports/2024/) and get continuous updates on their [Mastodon](https://front-end.social/@OpenWebDocs) account.
 
-<team-member>
+<mdn-about-team-member>
 
 ##### Florian Scholz
 
@@ -526,8 +544,8 @@ forefront of web development!
 - [@Elchi3](https://github.com/Elchi3)
 - Florian Scholz is the Director of Open Web Docs. He began volunteer editing MDN as a teen in 2009 and previously worked at Mozilla as MDN's Lead Content Strategist, Technical Writer & Documentation Engineer from 2013 until 2020\. He's one of the creators of the browser compatibility data (BCD) project and it makes him happy [when open source projects collaborate](https://hacks.mozilla.org/2019/09/caniuse-and-mdn-compat-data-collaboration/). He lives in Bremen, Germany; not Berlin. Other than submitting and reviewing PRs on GitHub, he enjoys listening to wave and post-punk music.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 ##### Will Bamberg
 
@@ -536,8 +554,8 @@ forefront of web development!
 - [@wbamberg](https://github.com/wbamberg)
 - Will Bamberg is a perfectionist and professional pedant who has been writing about the web for a long time, mostly on MDN. He enjoys learning about new aspects of the web platform and then turning that knowledge into accessible documentation. He believes that writing good documentation depends on understanding what it's like for someone who is learning something new or looking for the answer to their question.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 ##### Estelle Weyl
 
@@ -546,8 +564,8 @@ forefront of web development!
 - [@estelle](https://github.com/estelle)
 - Estelle Weyl is a Sr. Technical Writer and Developer Advocate on the Open Web Docs team. She is a frontend engineer, writing CSS, JS and HTML since 1999. Estelle has always been a web standardista, advocating for a free, accessible, and performant web. Estelle has been documenting and teaching web standards since 2007, writing numerous books, blogs, and tutorials. She’s typing with her cat (who thinks he's a dog) and dog (who thinks she's a cat) in San Francisco.
 
-</team-member>
-<team-member>
+</mdn-about-team-member>
+<mdn-about-team-member>
 
 ##### Queen Vinyl Da.i'gyu-Kazotetsu
 
@@ -556,8 +574,11 @@ forefront of web development!
 - [@queengooborg](https://github.com/queengooborg)
 - Vinyl works for Open Web Docs leading the browser compatibility data (BCD) project that millions of developers around the world rely on. Previously a contractor at Google and Mozilla and a long-time BCD community member, Vinyl has a lot of experience with compatibility on the open web. She was already the number #1 contributor to the BCD repository before officially joining our team! When she's not submitting pull requests to BCD, she's usually slicing blocks to the music in Beat Saber or staffing at various conventions across the globe.
 
-</team-member>
-</div>
+</mdn-about-team-member>
+</mdn-about-team-members>
+</mdn-about-partners>
+</mdn-about-tabs>
+<mdn-about-impact>
 
 ## Global impact
 
@@ -582,8 +603,13 @@ the open web.
   [W3C](https://www.w3.org/), and others to drive web innovation and serve the
   common good.
 
+</mdn-about-impact>
+<mdn-about-join-us>
+
 ## Join us in building a better web
 
 Be a part of our mission to foster innovation and inclusivity on the web.
 [Start contributing today](/en-US/docs/MDN/Contribute) and make a lasting impact
 on the global developer community.
+
+</mdn-about-join-us>
