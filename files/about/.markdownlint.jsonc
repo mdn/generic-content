@@ -1,0 +1,20 @@
+{
+  "extends": "../../.markdownlint.json",
+  "no-inline-html": {
+    "allowed_elements": [
+      "mdn-about-header",
+      "mdn-about-who-we-are",
+      "mdn-about-tabs",
+      "mdn-about-products",
+      "mdn-about-history",
+      "mdn-about-impact",
+      "mdn-about-join-us",
+      "mdn-about-image-history",
+      "mdn-about-core-values",
+      "mdn-about-team",
+      "mdn-about-partners",
+      "mdn-about-team-members",
+      "mdn-about-team-member"
+    ]
+  }
+}
