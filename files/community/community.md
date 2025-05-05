@@ -54,6 +54,8 @@ worldwide.
 - Estelle Weyl https://github.com/estelle Open Web Docs
 - Yitao Yin https://github.com/yin1999 Northwestern Polytechnical University
 - Florian Scholz https://github.com/Elchi3 Open Web Docs
+- Christine Belzie https://github.com/CBID2
+- Yash Raj Bharti https://github.com/yashrajbharti Liquid Galaxy
 
 </contributor-list>
 
