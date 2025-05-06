@@ -5,7 +5,6 @@ template: GenericAbout
 
 <mdn-about-header>
 
-
 # About MDN
 
 Empowering developers worldwide to build a better, open web
@@ -14,9 +13,8 @@ Empowering developers worldwide to build a better, open web
 - **7** Languages
 - **46M** Monthly pageviews
 
-
 </mdn-about-header>
-<mdn-about-us>
+<mdn-about-us>about-header
 
 ## Who we are
 
