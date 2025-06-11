@@ -16,11 +16,13 @@
   "spas": {
     "advertising": {
       "slug": "advertising",
-      "pageTitle": "Advertise with us"
+      "pageTitle": "Advertise with us",
+      "template": "SpaAdvertise"
     },
     "plus": {
       "slug": "plus",
-      "pageTitle": "MDN Plus"
+      "pageTitle": "MDN Plus",
+      "template": "SpaPlusLanding"
     }
   }
 }
