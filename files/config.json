@@ -23,6 +23,28 @@
       "slug": "plus",
       "pageTitle": "MDN Plus",
       "template": "SpaPlusLanding"
+    },
+    "": {
+      "slug": "",
+      "pagetitle": "MDN Web Docs",
+      "trailingSlash": true,
+      "data": {
+        "homePage": {
+          "featuredArticles": [
+            "/en-US/blog/javascript-temporal-is-coming/",
+            "/en-US/docs/Web/CSS/CSS_anchor_positioning",
+            "/en-US/docs/Web/API/View_Transition_API/Using",
+            "/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal"
+          ],
+          "latestNews": [
+            "/en-US/blog/mdn-2024-content-projects/",
+            "/en-US/blog/curriculum-learn-web-development/",
+            "/en-US/blog/new-community-page/",
+            "/en-US/blog/javascript-intl-segmenter-i18n/"
+          ]
+        }
+      },
+      "template": "SpaHomepage"
     }
   }
 }
