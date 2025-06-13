@@ -58,3 +58,7 @@ failing a given test is likely to be.
 > cutting-edge defensive security technologies are created. The bonuses
 > (positive modifiers) are specifically designed to encourage people to adopt
 > new security technologies or tackle difficult implementation challenges.
+
+<div>
+<mdn-observatory-tests-and-scores></mdn-observatory-tests-and-scores>
+</div>
