@@ -214,16 +214,12 @@ forefront of web development!
 </team-member>
 <team-member>
 
-#### Florian Dieminger
+#### Glob
 
 - Senior Engineering Manager
-- ![Profile picture of Florian](https://mdn.dev/generic-content/about/profiles/florian-309x309@1x.jpg)
-- [@fiji-flo](https://github.com/fiji-flo)
-- A Berlin resident and a long-time Mozilian, Florian was an active community
-  member before he joined the Mozilla staff in 2018. His passion for the web
-  spans across front-end, back-end, browser-engine and anything in-between. He
-  is a nerd outside of work too and is rediscovering online gaming. He loves
-  spending time with his family.
+- ![Profile picture of Glob](https://mdn.dev/generic-content/about/profiles/glob-309x309@1x.jpg)
+- [@globau](https://github.com/globau)
+- Based in Perth, Australia, Glob started as a contributor before officially joining Mozilla in 2011. A former full stack engineer focused on improving engineering productivity, he moved into full-time management in mid-2020. He now manages the MDN engineering team, as well as the Firefox DevTools and WebDriver-BiDi teams. Outside of work, he spends his time on family, code, and games.
 
 </team-member>
 <team-member>
@@ -392,22 +388,6 @@ forefront of web development!
   2022, and running global programs for devs and students around AI, Web, and
   DevOps. In his free time, he likes to play football in any form - physical,
   digital, and fantasy.
-
-</team-member>
-<team-member>
-
-#### Anuja Rajput
-
-- Senior User Experience Designer
-- ![Profile picture of Anuja](https://mdn.dev/generic-content/about/profiles/anuja-309x309@1x.jpg)
-- [@AnujaRajput727](https://github.com/AnujaRajput727)
-- Located in London, Anuja has been a part of the MDN team since 2023. With over
-  8 years of experience, she has passionately contributed to various phases of
-  product development, including design, business analysis, and testing. She is
-  empathetic and deeply cares about understanding users' perspectives and pain
-  points. She combines her work experience with her creative skills to enhance
-  her UX designs. In her free time, she enjoys painting, sketching, and travel
-  sketching.
 
 </team-member>
 <team-member>
