@@ -1,8 +1,6 @@
 {
   "pages": {
-    "community": {
-      "titleSuffix": "Contribute to MDN"
-    },
+    "community": {},
     "plus": {
       "slugPrefix": "plus/docs",
       "titleSuffix": "MDN Plus"
