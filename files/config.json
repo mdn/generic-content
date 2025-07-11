@@ -25,6 +25,7 @@
     "": {
       "slug": "",
       "pageTitle": "MDN Web Docs",
+      "shortTitle": "MDN",
       "trailingSlash": true,
       "data": {
         "homePage": {
