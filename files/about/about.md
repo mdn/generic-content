@@ -1,5 +1,6 @@
 ---
 title: About MDN
+short-title: About
 template: GenericAbout
 ---
 

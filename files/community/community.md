@@ -1,5 +1,6 @@
 ---
-title: "Contribute to MDN"
+title: Contribute to MDN
+short-title: Community
 template: GenericCommunity
 ---
 
