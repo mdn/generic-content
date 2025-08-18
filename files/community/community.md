@@ -93,7 +93,7 @@ various tasks such as writing and improving documentation, discussing enhancemen
 fixing bugs, and reviewing contributions. Want to get involved,
 but not sure where to start? Our
 [Getting started](/en-US/docs/MDN/Community/Getting_started)
-guide covers everything you need to make your first contributions.
+guide covers everything you need to make your first contribution.
 
 Watch this video on
 [how you can contribute to MDN](https://www.youtube.com/watch?v=Xnhnu7PViQE).
