@@ -19,11 +19,11 @@ Where web enthusiasts learn, collaborate, and create
 
 ## MDN's community powers the web
 
-MDN’s strength comes from the passion and dedication of our global community.
-Since our founding in 2005, we’ve grown into a thriving network. Together, we’ve
+MDN's strength comes from the passion and dedication of our global community.
+Since our founding in 2005, we've grown into a thriving network. Together, we've
 created a comprehensive, open, and free resource that serves web developers
 across the globe. With volunteers leading translation efforts in
-[7 languages](/en-US/docs/MDN/Community/Contributing/Translated_content), we’re
+[7 languages](/en-US/docs/MDN/Community/Contributing/Translated_content), we're
 truly international.
 
 ## Meet our contributors
@@ -82,54 +82,54 @@ worldwide.
   [YiTao Yin](/en-US/community/spotlight/yitao-yin) (MDN contributor)
 
 If you wish to be a part of the featured contributors here,
-[let us know](https://forms.gle/7yk13Nn1WRLnuLvy5).<br> If you’re featured here
+[let us know](https://forms.gle/7yk13Nn1WRLnuLvy5).<br> If you're featured here
 and would like to opt-out,
 [please file an issue on GitHub](https://github.com/mdn/content/issues/new?assignees=&labels=needs+triage&projects=&template=content-bug.yml).
 
 ## Learn how to get started
 
-We collaborate on [GitHub](https://github.com/mdn), our project's home, on
-various tasks such as writing and improving documentation, fixing bugs, and
-providing review feedback. It starts here, with you. Want to start right away,
-but not sure how? Follow
-[our guide](https://github.com/mdn/content/blob/main/CONTRIBUTING.md#mdn-web-docs-contribution-guide)
-to make your first contribution.
+We collaborate using [GitHub](https://github.com/mdn), our project's home, through
+various tasks such as writing and improving documentation, discussing enhancements,
+fixing bugs, and reviewing contributions. Want to get involved,
+but not sure where to start? Our
+[Getting started](/en-US/docs/MDN/Community/Getting_started)
+guide covers everything you need to make your first contribution.
 
 Watch this video on
-[how to get started with contributing to MDN](https://www.youtube.com/watch?v=Xnhnu7PViQE).
+[how you can contribute to MDN](https://www.youtube.com/watch?v=Xnhnu7PViQE).
 
 [Video from the community team on contributing to MDN](https://www.youtube.com/watch?v=Xnhnu7PViQE)
 
 ## Join us in shaping a better web
 
-Become part of this globally cherished group that’s dedicated to documenting web
-technologies. Whether you’re an expert or a beginner, there’s a place for you in
+Become part of this globally cherished group that's dedicated to documenting web
+technologies. Whether you're an expert or a beginner, there's a place for you in
 our inclusive community. Check out some of the ways you can contribute and
 engage.
 
 - ### Fix issues
 
-  Submit pull requests to fix reported issues.
+  Create pull requests to fix reported issues.
 
   [Squash bugs](https://github.com/mdn/content/issues)
 
 - ### Improve content
 
-  Fix inaccuracies and fill in missing information.
+  Make complex topics easier to understand or fill in missing information.
 
-  [Start writing](https://github.com/mdn/content/#readme)
+  [Start writing](/en-US/docs/MDN/Writing_guidelines)
 
 - ### Localize content
 
-  Participate in translating content into one of our supported languages.
+  Participate in translating content into one of our supported locales.
 
   [Find your locale](/en-US/docs/MDN/Community/Contributing/Translated_content#active_locales)
 
-- ### Answer questions
+- ### Support learners
 
-  Share your knowledge and expertise and guide fellow learners.
+  Share your expertise and knowledge to mentor and guide beginners.
 
-  [Help on Discord](https://mdn.dev/discord)
+  [Chat on Discord](https://mdn.dev/discord)
 
 ## Help us fix open issues
 
@@ -160,5 +160,5 @@ community members.
 
 MDN's resources are freely available under various open-source licenses. For
 detailed information on reusing MDN content, check out our
-[Attribution and Copyright Licensing](https://developer.mozilla.org/en-US/docs/MDN/About#using_mdn_web_docs_content)
+[Attribution and Copyright Licensing](/en-US/docs/MDN/Writing_guidelines/Attrib_copyright_license)
 page.
