@@ -30,16 +30,16 @@
       "data": {
         "homePage": {
           "featuredArticles": [
-            "/en-US/blog/javascript-temporal-is-coming/",
-            "/en-US/docs/Web/CSS/CSS_anchor_positioning",
-            "/en-US/docs/Web/API/View_Transition_API/Using",
-            "/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal"
+            "/en-US/blog/launching-new-front-end/",
+            "/en-US/blog/mdn-turns-20/",
+            "/en-US/docs/Web/API/CSS_Custom_Highlight_API",
+            "/en-US/blog/color-models-humans-devices/"
           ],
           "latestNews": [
+            "/en-US/blog/h1-element-styles/",
+            "/en-US/blog/javascript-temporal-is-coming/",
             "/en-US/blog/mdn-2024-content-projects/",
-            "/en-US/blog/curriculum-learn-web-development/",
-            "/en-US/blog/new-community-page/",
-            "/en-US/blog/javascript-intl-segmenter-i18n/"
+            "/en-US/blog/new-community-page/"
           ]
         }
       },
