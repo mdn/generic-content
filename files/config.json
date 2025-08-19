@@ -30,16 +30,16 @@
       "data": {
         "homePage": {
           "featuredArticles": [
-            "/en-US/blog/launching-new-front-end/",
             "/en-US/blog/mdn-turns-20/",
             "/en-US/docs/Web/API/CSS_Custom_Highlight_API",
-            "/en-US/blog/color-models-humans-devices/"
+            "/en-US/docs/Web/API/Performance_API/Server_timing",
+            "/en-US/docs/Web/JavaScript/Guide/Resource_management"
           ],
           "latestNews": [
-            "/en-US/blog/h1-element-styles/",
-            "/en-US/blog/javascript-temporal-is-coming/",
-            "/en-US/blog/mdn-2024-content-projects/",
-            "/en-US/blog/new-community-page/"
+            "/en-US/blog/launching-new-front-end/",
+            "/en-US/blog/image-formats-pixels-graphics/",
+            "/en-US/blog/color-models-humans-devices/",
+            "/en-US/blog/h1-element-styles/"
           ]
         }
       },
