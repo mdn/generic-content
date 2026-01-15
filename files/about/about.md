@@ -32,7 +32,7 @@ improvements, ensuring MDN remains a vital and evolving resource for all.
 
 - #### MDN Learn
 
-  Ideal for beginners, MDN Learn offers [guides](/en-US/docs/Learn) and a
+  Ideal for beginners, MDN Learn offers [guides](/en-US/docs/Learn_web_development) and a
   structured [curriculum](/en-US/curriculum/) to kickstart your web development
   journey. Enhance your learning with interactive courses from our partner,
   [Scrimba](https://scrimba.com/?via=mdn).
@@ -175,7 +175,7 @@ and putting together a fast-forward trip through our transformation!
   high-quality, and comprehensive platform that includes documentation on
   essential web technologies like [CSS](/en-US/docs/Web/CSS),
   [HTML](/en-US/docs/Web/HTML), [JavaScript](/en-US/docs/Web/JavaScript), and
-  [Web APIs](/en-US/docs/Web/API). Our [learning materials](/en-US/docs/Learn)
+  [Web APIs](/en-US/docs/Web/API). Our [learning materials](/en-US/docs/Learn_web_development)
   are tailored for a diverse audience—from beginners and students to professors
   teaching web development.
 
@@ -566,5 +566,5 @@ the open web.
 ## Join us in building a better web
 
 Be a part of our mission to foster innovation and inclusivity on the web.
-[Start contributing today](/en-US/docs/MDN/Contribute) and make a lasting impact
+[Start contributing today](/en-US/docs/MDN/Community/Getting_started) and make a lasting impact
 on the global developer community.
