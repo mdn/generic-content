@@ -23,7 +23,7 @@ MDN's strength comes from the passion and dedication of our global community.
 Since our founding in 2005, we've grown into a thriving network. Together, we've
 created a comprehensive, open, and free resource that serves web developers
 across the globe. With volunteers leading translation efforts in
-[7 languages](/en-US/docs/MDN/Community/Contributing/Translated_content), we're
+[7 languages](/en-US/docs/MDN/Community/Translated_content), we're
 truly international.
 
 ## Meet our contributors
@@ -35,7 +35,7 @@ platforms. Anyone can contribute, and each contribution strengthens our
 community, driving innovation and improving this vital resource for developers
 worldwide.
 
-- [Join us](/en-US/docs/MDN/Community/Contributing/Getting_started)
+- [Join us](/en-US/docs/MDN/Community/Getting_started)
 - [View all contributors](https://github.com/mdn/content/graphs/contributors)
 
 <contributor-list>
@@ -123,7 +123,7 @@ engage.
 
   Participate in translating content into one of our supported locales.
 
-  [Find your locale](/en-US/docs/MDN/Community/Contributing/Translated_content#active_locales)
+  [Find your locale](/en-US/docs/MDN/Community/Translated_content#active_locales)
 
 - ### Support learners
 

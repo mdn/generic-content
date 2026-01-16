@@ -19,7 +19,7 @@ Observatory tests for preventative measures against
 [Cross-site scripting (XSS)](/en-US/docs/Glossary/Cross-site_scripting) attacks,
 [manipulator-in-the-middle (MiTM)](/en-US/docs/Glossary/MitM) attacks,
 cross-domain information leakage, insecure
-[cookies](/en-US/docs/Web/HTTP/Cookies),
+[cookies](/en-US/docs/Web/HTTP/Guides/Cookies),
 [Content Delivery Network](/en-US/docs/Glossary/CDN) (CDN) compromises, and
 improperly issued certificates.
 
@@ -86,10 +86,10 @@ The MDN team has:
   - Removed the out-of-date Flash and Silverlight (`clientaccesspolicy.xml` and
     `crossdomain.xml`) embedding tests.
   - Added a
-    [`Cross-Origin-Resource-Policy`](/en-US/docs/Web/HTTP/Headers/Cross-Origin-Resource-Policy)
+    [`Cross-Origin-Resource-Policy`](/en-US/docs/Web/HTTP/Reference/Headers/Cross-Origin-Resource-Policy)
     (CORP) test.
   - Updated the
-    [`Referrer-Policy`](/en-US/docs/Web/HTTP/Headers/Referrer-Policy) test to
+    [`Referrer-Policy`](/en-US/docs/Web/HTTP/Reference/Headers/Referrer-Policy) test to
     update the score modifier for `referrer-policy-unsafe` and remove the
     `referrer-policy-no-referrer-when-downgrade` result.
 
@@ -97,7 +97,7 @@ The MDN team has:
 
 Yes. The new v2 API is available at an updated URL —
 `https://observatory-api.mdn.mozilla.net/api/v2/scan` — and the response is now
-more concise. For example, a [`POST`](/en-US/docs/Web/HTTP/Methods/POST) request
+more concise. For example, a [`POST`](/en-US/docs/Web/HTTP/Reference/Methods/POST) request
 to `https://observatory-api.mdn.mozilla.net/api/v2/scan?host=mdn.net` will
 return a JSON payload like this:
 
@@ -158,7 +158,7 @@ This test is checking whether your web server is making its
 [initial redirection from HTTP to HTTPS](/en-US/docs/Web/Security/Practical_implementation_guides/TLS#http_redirection),
 on the same hostname, before doing any further redirections. This allows the
 HTTP
-[`Strict-Transport-Security`](/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
+[`Strict-Transport-Security`](/en-US/docs/Web/HTTP/Reference/Headers/Strict-Transport-Security)
 (HSTS) header to be applied properly.
 
 For example, this redirection order is correct:
@@ -172,10 +172,10 @@ An incorrect (and penalized) redirection looks like this:
 ## (X-Frame-Options) What if I want to allow my site to be framed?
 
 As long as you are explicit about your preference by using the
-[`Content-Security-Policy`](/en-US/docs/Web/HTTP/Headers/Content-Security-Policy)
-[`frame-ancestors`](/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/frame-ancestors)
+[`Content-Security-Policy`](/en-US/docs/Web/HTTP/Reference/Headers/Content-Security-Policy)
+[`frame-ancestors`](/en-US/docs/Web/HTTP/Reference/Headers/Content-Security-Policy/frame-ancestors)
 directive, you will pass the
-[`X-Frame-Options`](/en-US/docs/Web/HTTP/Headers/X-Frame-Options) test. For
+[`X-Frame-Options`](/en-US/docs/Web/HTTP/Reference/Headers/X-Frame-Options) test. For
 example, to allow your site to be framed by any HTTPS site:
 
 ```http
