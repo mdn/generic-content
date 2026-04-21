@@ -9,7 +9,8 @@
       "slugPrefix": "observatory/docs",
       "titleSuffix": "HTTP Observatory"
     },
-    "about": {}
+    "about": {},
+    "mcp": {}
   },
   "spas": {
     "advertising": {

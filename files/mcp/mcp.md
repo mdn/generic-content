@@ -1,7 +1,7 @@
 ---
 title: "MDN's MCP Server"
 short-title: MCP
-template: Generic
+template: GenericDoc
 ---
 
 # MDN's MCP Server
