@@ -1,5 +1,5 @@
 ---
-title: "MDN's MCP Server"
+title: "MDN MCP server"
 short-title: MCP
 template: GenericDoc
 ---
