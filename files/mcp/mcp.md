@@ -9,7 +9,7 @@ MDN [MCP server](https://modelcontextprotocol.io/docs/learn/server-concepts) pro
 
 Our hope is that it gives LLM ChatBots and Coding Agents more accurate information about the current state of the web rather than relying on the vast amount of out-of-date information on the Internet.
 
-## Privacy and Data Retention
+## Privacy and data retention
 
 This MCP is being run as an experiment. While it is an experiment, we will be storing data about the queries we receive. Please see our [privacy notice](https://www.mozilla.org/en-US/privacy/websites/) for more information on interaction data we may collect. This data will **not** be associated with any information designed to identify users. However, while unlikely, it is possible that private information that you divulge to the LLM could be included in these queries. Please don't use this MCP if this is a concern to you.
 
