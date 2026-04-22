@@ -4,7 +4,6 @@ short-title: MCP
 template: GenericDoc
 ---
 
-# MDN's MCP Server
 
 Welcome to [MDN's MCP server](https://modelcontextprotocol.io/docs/learn/server-concepts) which provides access to MDN's search, documentation and Browser Compatibility Data.
 
