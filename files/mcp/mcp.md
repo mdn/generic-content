@@ -7,7 +7,7 @@ template: GenericDoc
 
 MDN [MCP server](https://modelcontextprotocol.io/docs/learn/server-concepts) provides access to MDN's search, documentation, and browser compatibility data.
 
-Our hope is that it gives LLM ChatBots and Coding Agents more accurate information about the current state of the web rather than relying on the vast amount of out-of-date information on the Internet.
+Our goal is to give LLMs and coding agents a reliable and up-to-date source of web platform documentation - so developers can get accurate information instead of potentially outdated content their LLMs were trained on.
 
 ## Privacy and data retention
 
