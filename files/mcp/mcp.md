@@ -37,9 +37,8 @@ claude mcp add --transport http mdn https://mcp.mdn.mozilla.net/
 claude mcp add --transport http mdn-local http://localhost:3002/
 ```
 
-## Local development setup
+## Feedback and contribution
 
-1. Install dependencies: `npm install`
-2. Start the development server, MCP inspector, and tests: `npm run dev`
+We welcome any feedback you have on using the MCP server. You can chat to us [in our Discord](https://mdn.dev/discord), or open an issue on the [MDN MCP repository](https://github.com/mdn/mcp).
 
-Your browser should open the MCP inspector automatically, and the server will restart when you make changes.
+To learn more about contribution and local development please refer to the instructions in the repository.
