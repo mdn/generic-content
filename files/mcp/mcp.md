@@ -23,6 +23,9 @@ As this MCP server is experimental, it may be withdrawn at any time.
 
 Add the remote server to your tool of choice. For example, in Claude Code:
 
+```
+claude mcp add --transport http mdn https://mcp.mdn.mozilla.net/
+```
 
 ## Feedback and contribution
 
