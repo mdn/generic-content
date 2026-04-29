@@ -31,9 +31,9 @@
         "homePage": {
           "featuredArticles": [
             "/en-US/blog/mdn-turns-20/",
-            "/en-US/docs/Web/API/CSS_Custom_Highlight_API",
-            "/en-US/docs/Web/API/Performance_API/Server_timing",
-            "/en-US/docs/Web/JavaScript/Guide/Resource_management"
+            "/en-US/docs/Web/API/Navigation_API",
+            "/en-US/docs/Web/API/Trusted_Types_API",
+            "/en-US/docs/Web/CSS/Guides/Anchor_positioning/Using"
           ],
           "latestNews": [
             "/en-US/blog/launching-new-front-end/",
