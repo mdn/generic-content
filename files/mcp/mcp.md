@@ -4,12 +4,6 @@ short-title: MCP
 template: GenericDoc
 ---
 
----
-title: "MDN's MCP server"
-short-title: MCP
-template: GenericDoc
----
-
 # MDN's MCP server
 
 MDN's [MCP server](https://modelcontextprotocol.io/docs/learn/server-concepts) provides access to MDN's search, documentation, and browser compatibility data.
