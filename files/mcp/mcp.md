@@ -4,9 +4,9 @@ short-title: MCP
 template: GenericDoc
 ---
 
-# MDN's MCP server
+# MDN MCP server
 
-MDN's [Model Context Protocol (MCP) server](https://modelcontextprotocol.io/docs/learn/server-concepts) provides access to MDN's search, documentation, and browser compatibility data.
+The MDN [Model Context Protocol (MCP) server](https://modelcontextprotocol.io/docs/learn/server-concepts) provides access to MDN's search, documentation, and browser compatibility data.
 
 Our goal is to give LLMs and coding agents a reliable and up-to-date source of web platform documentation - so developers can get accurate information instead of potentially outdated content their LLMs were trained on.
 
