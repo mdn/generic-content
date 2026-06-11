@@ -6,7 +6,7 @@ template: GenericDoc
 
 # MDN's MCP server
 
-MDN's [MCP server](https://modelcontextprotocol.io/docs/learn/server-concepts) provides access to MDN's search, documentation, and browser compatibility data.
+MDN's [Model Context Protocol (MCP) server](https://modelcontextprotocol.io/docs/learn/server-concepts) provides access to MDN's search, documentation, and browser compatibility data.
 
 Our goal is to give LLMs and coding agents a reliable and up-to-date source of web platform documentation - so developers can get accurate information instead of potentially outdated content their LLMs were trained on.
 
@@ -32,4 +32,4 @@ claude mcp add --transport http mdn https://mcp.mdn.mozilla.net/
 
 We welcome any feedback you have on using the MCP server. You can chat to us [in our Discord](https://mdn.dev/discord), or open an issue on the [MDN MCP repository](https://github.com/mdn/mcp).
 
-To learn more about how you can contribute, see the MDN MCP repository.
+For local setup and development, see the [MDN MCP server README](https://github.com/mdn/mcp).
