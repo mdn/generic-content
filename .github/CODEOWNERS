@@ -9,6 +9,7 @@
 
 # Directories
 /.github @mdn/engineering
+/.github/CODEOWNERS @mdn/content-team @mdn/engineering
 /files   @mdn/content-team
 
 # GitHub templates
