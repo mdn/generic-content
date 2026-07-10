@@ -46,7 +46,7 @@ jobs:
           CONTENT_ROOT: ${{ github.workspace }}/mdn/content/files
           GENERIC_CONTENT_ROOT: ${{ github.workspace }}/mdn/generic-content/files
           GITHUB_TOKEN: ${{ github.token }}
-        run: npx rari build --no-basic --generics --issues "$BUILD_OUT_ROOT/issues.json" --templ-stats
+        run: npx @mdn/rari build --no-basic --generics --issues "$BUILD_OUT_ROOT/issues.json" --templ-stats
 
       - name: Report
         uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8.0.0
