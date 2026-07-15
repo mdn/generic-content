@@ -256,24 +256,6 @@ forefront of web development!
 </team-member>
 <team-member>
 
-#### Brian Smith
-
-- Staff Technical Writer
-- ![Profile picture of Brian](https://mdn.dev/generic-content/about/profiles/brian-309x309@1x.jpg)
-- [@bsmth](https://github.com/bsmth)
-- Brian has been with MDN since 2022. He lives in Berlin. With around 20 years
-  of experience hacking on web technologies and working full-time as a technical
-  writer since 2016, Brian is passionate about open-source software and writing
-  docs that make complex concepts fun and easy to grasp for people of all
-  levels. Before joining Mozilla, Brian worked on a TypeScript-like language
-  specification, a time series database, and REST API documentation for cloud
-  services. Outside of work, he enjoys exploring new European destinations with
-  family, discovering local coffee shops, and using music gear as long as it
-  doesn't have a screen.
-
-</team-member>
-<team-member>
-
 #### Dave Letorey
 
 - Technical Writer
@@ -330,22 +312,6 @@ forefront of web development!
 </team-member>
 <team-member>
 
-#### Andi Pieper
-
-- Staff Software Engineer
-- ![Profile picture of Andi](https://mdn.dev/generic-content/about/profiles/andi-309x309@1x.jpg)
-- [@argl](https://github.com/argl)
-- Andi lives in Berlin. He joined the MDN team in 2023. He is focused on keeping
-  up the high quality of MDN and ensuring that it remains an accessible,
-  competent, and friendly help for anyone concerned with the web, regardless of
-  their level of expertise. Growing up with the internet of the 90s, Andi has
-  worked on a multitude of projects on the web over the years, occasionally
-  veering off into desktop and mobile development. Apart from his daytime
-  obligations, he enjoys creating organized noise.
-
-</team-member>
-<team-member>
-
 #### Claas Augner
 
 - Senior Software Engineer
@@ -375,24 +341,6 @@ forefront of web development!
 </team-member>
 <team-member>
 
-#### Pranshu Khanna
-
-- Staff Community Manager
-- ![Profile picture of Pranshu](https://mdn.dev/generic-content/about/profiles/pranshu-309x309@1x.jpg)
-- [@pransh15](https://github.com/pransh15)
-- Pranshu has been a long-term contributor to Mozilla as a Rep. Based in Berlin,
-  he joined the MDN team in 2024. He works on moderating, growing and managing
-  MDN’s awesome community. Pranshu is passionate about building a healthy and
-  inclusive community for developers and helping them build better. Before
-  working at Mozilla, Pranshu gained extensive experience in growing developer
-  communities for startups, organizing conferences like GraphQL Conf. 2021 &
-  2022, and running global programs for devs and students around AI, Web, and
-  DevOps. In his free time, he likes to play football in any form - physical,
-  digital, and fantasy.
-
-</team-member>
-<team-member>
-
 #### Sonal Sood
 
 - Senior Product Manager
@@ -404,23 +352,6 @@ forefront of web development!
   is always focused on delivering valuable and impactful products that make a
   difference. In her free time, Sonal enjoys cycling, running, and practicing
   yoga.
-
-</team-member>
-<team-member>
-
-#### Miruna Curtean
-
-- Quality Assurance
-- ![Profile picture of Miruna](https://mdn.dev/generic-content/about/profiles/miruna-309x309@1x.jpg)
-- [@mirunacurtean](https://github.com/mirunacurtean)
-- Miruna calls Cluj-Napoca, Romania home. Contracting with Mozilla since 2019,
-  she worked on Firefox Add-ons and Mozilla Support before switching to MDN
-  in 2022. She focuses on analyzing requirements and community issues, building
-  comprehensive test bases, and ensuring delivered features meet requirements.
-  Before Mozilla, she worked in game development and e-commerce but found
-  greater joy in website development, particularly inspired by its community
-  aspect. Outside of work, Miruna enjoys story-based entertainment including
-  books, movies, shows, anime, and podcasts.
 
 </team-member>
 
